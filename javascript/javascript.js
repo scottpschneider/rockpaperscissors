@@ -32,7 +32,7 @@ function play(userChoice) {
         }
         else {
             drawResults('loss')
-        }
+        } 
     }
     else {
         if (userChoice == 'paper') {
